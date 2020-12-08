@@ -1,4 +1,4 @@
-package com.kiprotich.kangogo;
+package com.john;
 
 import android.app.Activity;
 import android.os.Bundle;
